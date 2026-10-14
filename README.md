@@ -32,7 +32,7 @@
 
 I'm a **Full-Stack Developer** from Kufstein, Austria 🇦🇹 who loves turning ideas into fast, clean and useful web apps.
 
-- 🔭 Building **[Fakturio](https://github.com/milosdimi/angular-fakturio)** – a multi-tenant invoicing SaaS for small businesses in AT & RS
+- 🔭 Building **[Fakturio](https://www.fakturio.at)** – a multi-tenant invoicing SaaS for small businesses in AT & RS
 - ⚙️ Daily driver: **Angular (Signals, Standalone)**, **TypeScript**, **Supabase**
 - 🌱 Exploring AI-assisted development, Edge Functions & e-invoicing (ZUGFeRD / XRechnung)
 - 🌍 German • English • Serbian
