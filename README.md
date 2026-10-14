@@ -69,38 +69,46 @@ I'm a **Full-Stack Developer** from Kufstein, Austria 🇦🇹 who loves turning
 <table>
   <tr>
     <td width="50%" valign="top">
-         <h3>🧾 Fakturio <img src="https://img.shields.io/badge/🔒_Private_Repo-334155?style=flat-square" /></h3>
-      <sub>🚧 In active development</sub><br/><br/>
+      <br/>
+      <b>🧾 Fakturio</b>&nbsp; <img src="https://img.shields.io/badge/🔒_Private_Repo-334155?style=flat-square" /><br/>
+      <sub>🚧 In active development • <a href="https://www.fakturio.at">www.fakturio.at</a></sub><br/><br/>
       Multi-tenant invoicing SaaS with strict tenant isolation (RLS), draft → final invoice workflow, EPC-QR codes and DE / EN / SR translations.<br/><br/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      <br/><br/>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/milosdimi/DABubbleNew">DABubble</a></h3>
+      <br/>
+      <b>💬 <a href="https://github.com/milosdimi/DABubbleNew">DABubble</a></b><br/>
       <sub>✅ Completed</sub><br/><br/>
       Real-time team messenger with channels, direct messages and threads.<br/><br/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <br/><br/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📋 <a href="https://github.com/milosdimi/join-kanban">Join</a></h3>
+      <br/>
+      <b>📋 <a href="https://github.com/milosdimi/join-kanban">Join</a></b><br/>
       <sub>✅ Completed</sub><br/><br/>
       Kanban board for task management with drag & drop, contacts and priorities.<br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <br/><br/>
     </td>
     <td width="50%" valign="top">
-      <h3>🍳 <a href="https://github.com/milosdimi/code-a-cuisine">Code à Cuisine</a></h3>
+      <br/>
+      <b>🍳 <a href="https://github.com/milosdimi/code-a-cuisine">Code à Cuisine</a></b><br/>
       <sub>✅ Completed</sub><br/><br/>
       Recipe app that turns the ingredients you have into dish ideas.<br/><br/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+      <br/><br/>
     </td>
   </tr>
 </table>
