@@ -1,18 +1,148 @@
-# 💫 About Me:
-I am developing my skills as a Full-Stack Developer, focusing on web development and modern technologies. I love exploring new tools, working on exciting projects, and continuously improving my code. 🚀
+<!-- ═══════════════ HEADER ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Milos%20Dimitrijevic&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20Kufstein%2C%20Austria&descAlignY=62&descSize=17" width="100%" alt="Header" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/milosdimi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Milos+%F0%9F%91%8B;Angular+%E2%80%A2+TypeScript+%E2%80%A2+Supabase;Building+SaaS+for+small+businesses;Clean+code.+Fast+UIs.+Real+impact.+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Mikimii#0802) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557717354333) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dimit.it/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milos-dimitrijevic-35a552195/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mikigen@live.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dimitdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dm@dimit.at) 
+<p align="center">
+  <a href="https://www.dimit.cc"><img src="https://img.shields.io/badge/Website-dimit.cc-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/milos-dimitrijevic-35a552195/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dm@dimit.at"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/Dimitdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/dimit.it/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=milosdimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=milosdimi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=milosdimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=milosdimi&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/milosdimi?style=for-the-badge&logo=github&color=1e3a8a" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=milosdimi&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ═══════════════ ABOUT ═══════════════ -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
+  About me
+</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=milosdimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+
+I'm a **Full-Stack Developer** from Kufstein, Austria 🇦🇹 who loves turning ideas into fast, clean and useful web apps.
+
+- 🔭 Building **[Fakturio](https://github.com/milosdimi/angular-fakturio)** – a multi-tenant invoicing SaaS for small businesses in AT & RS
+- ⚙️ Daily driver: **Angular (Signals, Standalone)**, **TypeScript**, **Supabase**
+- 🌱 Exploring AI-assisted development, Edge Functions & e-invoicing (ZUGFeRD / XRechnung)
+- 🌍 German • English • Serbian
+- ⚡ Fun fact: I wrote my first README *before* AI did it for me 😄
+
+<br clear="right"/>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" />
+  Tech stack
+</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,react,materialui&theme=dark&perline=9" />
+  </a>
+  <br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,nodejs,cs,dotnet,py,django,mongodb&theme=dark&perline=9" />
+  </a>
+  <br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,git,github,githubactions,vscode,figma,postman&theme=dark&perline=8" />
+  </a>
+</p>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" />
+  Featured projects
+</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 <a href="https://github.com/milosdimi/angular-fakturio">Fakturio</a></h3>
+      <sub>🚧 In active development</sub><br/><br/>
+      Multi-tenant invoicing SaaS with strict tenant isolation (RLS), draft → final invoice workflow, EPC-QR codes and DE / EN / SR translations.<br/><br/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/milosdimi/DABubbleNew">DABubble</a></h3>
+      <sub>✅ Completed</sub><br/><br/>
+      Real-time team messenger with channels, direct messages and threads.<br/><br/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📋 <a href="https://github.com/milosdimi/join-kanban">Join</a></h3>
+      <sub>✅ Completed</sub><br/><br/>
+      Kanban board for task management with drag & drop, contacts and priorities.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍳 <a href="https://github.com/milosdimi/code-a-cuisine">Code à Cuisine</a></h3>
+      <sub>✅ Completed</sub><br/><br/>
+      Recipe app that turns the ingredients you have into dish ideas.<br/><br/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/milosdimi?tab=repositories">
+    <img src="https://img.shields.io/badge/See_all_repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" />
+  GitHub stats
+</h2>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=milosdimi&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milosdimi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=milosdimi&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<!-- ═══════════════ SNAKE ═══════════════ -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="32" />
+  My contributions, eaten by a snake
+</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milosdimi/milosdimi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milosdimi/milosdimi/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/milosdimi/milosdimi/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=94A3B8&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+great+together+%F0%9F%A4%9D" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
