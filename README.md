@@ -69,7 +69,7 @@ I'm a **Full-Stack Developer** from Kufstein, Austria 🇦🇹 who loves turning
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧾 <a href="https://github.com/milosdimi/angular-fakturio">Fakturio</a></h3>
+         <h3>🧾 Fakturio <img src="https://img.shields.io/badge/🔒_Private_Repo-334155?style=flat-square" /></h3>
       <sub>🚧 In active development</sub><br/><br/>
       Multi-tenant invoicing SaaS with strict tenant isolation (RLS), draft → final invoice workflow, EPC-QR codes and DE / EN / SR translations.<br/><br/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
